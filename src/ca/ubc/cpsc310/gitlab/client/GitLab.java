@@ -37,6 +37,7 @@ public class GitLab implements EntryPoint {
 	 */
 	public void onModuleLoad() {
         String a = "this is taking even longer now";
+        String b = "there needs to be a conflict";
 	
 		Window.alert("Loaded");
 	}
