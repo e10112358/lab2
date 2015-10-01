@@ -36,7 +36,7 @@ public class GitLab implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-        String a = "this is taking too long";
+        String a = "I am bored";
 	
 		Window.alert("Loaded");
 	}
